@@ -1,0 +1,28 @@
+Anonymous UUID:       C775954F-DA74-7DDE-7169-810A11EE215A
+
+Wed Nov 14 12:34:02 2018
+
+function(){
+	testttt;
+}
+
+*** Panic Report ***
+panic(cpu 1 caller 0xffffff80128ba085): "Invalid queue element linkage for 0xffffff802f73a930: next 0xffffff803e993900 next->prev 0xffffff80af73a930 prev 0xffffff8028292000 prev->next 0xffffff802f73a930"@/BuildRoot/Library/Caches/com.apple.xbs/Sources/xnu/xnu-4903.221.2/osfmk/kern/queue.h:244
+Backtrace (CPU 1), Frame : Return Address
+0xffffff91322338e0 : 0xffffff80127aca9d 
+0xffffff9132233930 : 0xffffff80128e6893 
+0xffffff9132233970 : 0xffffff80128d82ba 
+0xffffff91322339e0 : 0xffffff8012759ca0 
+0xffffff9132233a00 : 0xffffff80127ac4b7 
+0xffffff9132233b20 : 0xffffff80127ac303 
+0xffffff9132233b90 : 0xffffff80128ba085 
+0xffffff9132233c70 : 0xffffff80128bade7 
+0xffffff9132233cd0 : 0xffffff8012841e5c 
+0xffffff9132233e20 : 0xffffff8012849542 
+0xffffff9132233e60 : 0xffffff80127d7c1e 
+0xffffff9132233ea0 : 0xffffff8012cb7e7c 
+0xffffff9132233f10 : 0xffffff8012cb7bf3 
+0xffffff9132233f30 : 0xffffff8012cb7bc9 
+0xffffff9132233f40 : 0xffffff8012db5aab 
+0xffffff9132233fa0 : 0xffffff801275a466 
+

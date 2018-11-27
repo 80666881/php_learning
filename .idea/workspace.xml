@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40163e48-fa3a-467c-b23a-f9e821649cab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php-docker-settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/1_文件访问&amp;修改.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/2_获取文件信息方式2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/3_文件显示1_readfile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/4_文件显示2_fread+buffer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/5_文件显示3_file_get_contents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/6_读取配置文件config.ini.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/7_创建文件并写入内容.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/9_删除文件.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day30_文件操作/file.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day27_mysqli_extense/1_mysqli_crud.php" afterPath="$PROJECT_DIR$/day27_mysqli_extense/1_mysqli_crud.php" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/11_目录操作.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/12_文件拷贝.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/new_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/中文名称测试.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31_文件上传/1_upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day31_文件上传/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" beforeDir="false" afterPath="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30_文件操作/hello.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,84 +35,78 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="php_learning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="3_文件显示1_readfile.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/3_文件显示1_readfile.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4_文件显示2_fread+buffer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/4_文件显示2_fread+buffer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="18" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-                <marker date="1542545341296" expanded="true" signature="716:722" ph=" " />
-                <marker date="1542545341296" expanded="true" signature="722:728" ph=" " />
-                <marker date="1542545341296" expanded="true" signature="728:734" ph=" " />
-                <marker date="1542545341296" expanded="true" signature="734:740" ph=" " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5_文件显示3_file_get_contents.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/5_文件显示3_file_get_contents.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6_读取配置文件config.ini.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/6_读取配置文件config.ini.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7_创建文件并写入内容.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/7_创建文件并写入内容.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="34" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="8_file_put_content添加.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="756">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
                 <element signature="e#6#94#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="中文名称测试.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day30_文件操作/中文名称测试.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="11_目录操作.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day30_文件操作/11_目录操作.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_文件拷贝.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day30_文件操作/12_文件拷贝.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_opendir&amp;readdir.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_统计文件和文件夹大小.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_upload.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day31_文件上传/1_upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day31_文件上传/upload.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -123,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/day30_文件操作/9_删除文件.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="e#6#94#0#PHP" expanded="true" />
               </folding>
@@ -131,32 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10_修改文件.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10_修改文件.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day30_文件操作/10_修改文件.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/hello.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/config.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -176,14 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day14_数据类型/1.php定义的数据类型.php" />
-        <option value="$PROJECT_DIR$/day14_数据类型/2.字符串常用函数.php" />
-        <option value="$PROJECT_DIR$/day19_魔术方法/1.魔术方法.php" />
-        <option value="$PROJECT_DIR$/day19_魔术方法_修饰符/1.修饰符.php" />
-        <option value="$PROJECT_DIR$/day20_静态_单例/1.静态方法.php" />
-        <option value="$PROJECT_DIR$/day20_静态_单例/2.单例模式.php" />
-        <option value="$PROJECT_DIR$/day20_静态_单例/3.抽象.php" />
-        <option value="$PROJECT_DIR$/day20_静态_单例/修饰符使用范围.php" />
         <option value="$PROJECT_DIR$/day20_静态_单例/4.魔术方法_修饰符使用范围.php" />
         <option value="$PROJECT_DIR$/day20_静态_单例/5.对象的连用(链式调用).php" />
         <option value="$PROJECT_DIR$/day21_重载/1.重载.php" />
@@ -227,6 +190,14 @@
         <option value="$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php" />
         <option value="$PROJECT_DIR$/day30_文件操作/9_删除文件.php" />
         <option value="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" />
+        <option value="$PROJECT_DIR$/day30_文件操作/11_目录操作.php" />
+        <option value="$PROJECT_DIR$/day30_文件操作/12_文件拷贝.php" />
+        <option value="$PROJECT_DIR$/day30_文件操作/13_open_dir&amp;read_dir.php" />
+        <option value="$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php" />
+        <option value="$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php" />
+        <option value="$PROJECT_DIR$/day31_文件上传/2_upload.html" />
+        <option value="$PROJECT_DIR$/day31_文件上传/upload.html" />
+        <option value="$PROJECT_DIR$/day31_文件上传/1_upload.php" />
       </list>
     </option>
   </component>
@@ -242,11 +213,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP" />
-  <component name="ProjectFrameBounds">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Remote PHP" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -313,118 +287,65 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day30_文件操作" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day28_mysqli_2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day27_mysqli_extense" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day24_mysql_学生管理系统" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learning" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day13_变量" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day13_变量" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day27_mysqli_extense" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day28_mysqli_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day30_文件操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day30_文件操作" type="462c0819:PsiDirectoryNode" />
+              <item name="aaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day31_文件上传" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.22990233" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day30_文件操作/13dir" />
       <recent name="$PROJECT_DIR$/day30_文件操作" />
       <recent name="$PROJECT_DIR$/day27_mysqli_extense" />
       <recent name="$PROJECT_DIR$/day22_内置标准类_反射_traits" />
@@ -442,51 +363,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.require.php">
-    <configuration default="false" name="a.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/php_learning/a.php">
-      <method />
+  <component name="RunManager" selected="PHPUnit.day30_文件操作">
+    <configuration name="a.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/php_learning/a.php" />
+    <configuration name="day30_文件操作" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/day30_文件操作" />
     </configuration>
-    <configuration default="false" name="require.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/require.php">
-      <method />
-    </configuration>
-    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
+    <configuration name="require.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/require.php" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -494,41 +376,19 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.a.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.require.php" />
+    <list>
+      <item itemvalue="JavaScript Debug.a.php" />
+      <item itemvalue="PHP Script.require.php" />
+      <item itemvalue="PHPUnit.day30_文件操作" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.require.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.a.php" />
+      <list>
+        <item itemvalue="PHPUnit.day30_文件操作" />
+        <item itemvalue="PHP Script.require.php" />
+        <item itemvalue="JavaScript Debug.a.php" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -554,11 +414,15 @@
       <workItem from="1542439826452" duration="5228000" />
       <workItem from="1542520590445" duration="1865000" />
       <workItem from="1542542097309" duration="6264000" />
+      <workItem from="1543154861030" duration="24000" />
+      <workItem from="1543154961946" duration="83000" />
+      <workItem from="1543223716715" duration="212000" />
+      <workItem from="1543330469035" duration="3285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66885000" />
+    <option name="totallyTimeSpent" value="70489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,29 +437,30 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27152777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16736111" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32897863" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897863" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897863" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -604,97 +469,26 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day13_变量/2.变量作用域.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="71" column="35" lean-forward="false" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13_变量/3.常用的函数.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13_变量/4.常量.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day21_重载_多态_接口/1.重载.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1237">
-          <caret line="104" column="1" lean-forward="false" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day21_重载_多态_接口/2.多态.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="49" column="37" lean-forward="false" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day21_重载_多态_接口/3.抽象类.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day21_重载_多态_接口/4.接口1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day21_重载_多态_接口/5.接口2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="85" column="3" lean-forward="false" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/1.内置标准类.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/2.转为对象.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/cat.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/3.对象序列化.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
-          <caret line="31" column="109" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="109" />
+          <caret line="31" column="109" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="109" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/4.对象反序列化unserialize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -708,14 +502,14 @@
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/6.traits.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/21-reflection1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
-          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="46" />
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -729,35 +523,35 @@
     <entry file="file://$PROJECT_DIR$/day13_变量/5.预定义变量.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="801">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day13_变量/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day24_mysql_学生管理系统/strpos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
-          <caret line="31" column="72" lean-forward="false" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
+          <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day24_mysql_学生管理系统/ok.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day24_mysql_学生管理系统/insert.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -765,52 +559,35 @@
     <entry file="file://$PROJECT_DIR$/day24_mysql_学生管理系统/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="25" />
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/4_操作emp表.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-            <marker date="1542114595921" expanded="true" signature="348:393" ph="SELECT * fro... emp" />
-            <marker date="1542114595921" expanded="true" signature="354:393" ph="select * fro... emp" />
-          </folding>
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/3_connect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
-          <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-            <marker date="1542114884871" expanded="true" signature="344:365" ph="SELECT * FRO... user3" />
-            <marker date="1542114884871" expanded="true" signature="625:657" ph="INSERT INTO `user3`... " />
-            <marker date="1542114884871" expanded="true" signature="625:664" ph="INSERT INTO `user3`... " />
-            <marker date="1542114884871" expanded="true" signature="625:666" ph="INSERT INTO `user3`... " />
-            <marker date="1542114884871" expanded="true" signature="625:697" ph="INSERT INTO `user3`... " />
-          </folding>
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/DAOmysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
-          <caret line="50" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-          </folding>
+          <caret line="50" column="10" selection-end-line="119" />
         </state>
       </provider>
     </entry>
@@ -818,160 +595,73 @@
     <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/2_mysqli_crud.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <marker date="1541946376606" expanded="true" signature="747:824" ph="INSERT INTO `user3`... " />
-            <marker date="1541946376606" expanded="true" signature="852:867" ph="UPDATE `user... " />
-            <marker date="1541946376606" expanded="true" signature="852:891" ph="UPDATE `user... " />
-            <marker date="1541946376606" expanded="true" signature="852:904" ph="UPDATE `user... " />
-            <marker date="1541946376606" expanded="true" signature="918:948" ph="DELETE FROM " />
-          </folding>
+          <caret line="25" selection-start-line="25" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day28_mysqli_2/1_mysqli的事务控制.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-            <marker date="1542116366620" expanded="true" signature="254:306" ph="UPDATE `acco... " />
-            <marker date="1542116366620" expanded="true" signature="318:370" ph="UPDATE `acco... " />
-          </folding>
+          <caret line="26" column="14" selection-start-line="26" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day28_mysqli_2/3_批量执行dql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-            <marker date="1542118797643" expanded="true" signature="395:414" ph="SELECT * FRO... emp" />
-            <marker date="1542118797643" expanded="true" signature="428:451" ph="SELECT * FRO... account" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13_变量/1.值传递.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day28_mysqli_2/2_mysqli的批量执行.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="18" column="71" lean-forward="false" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="false" />
-            <marker date="1542466661087" expanded="true" signature="396:438" ph="INSERT INTO `account`... " />
-            <marker date="1542466661087" expanded="true" signature="452:494" ph="INSERT INTO `account`... " />
-            <marker date="1542466661087" expanded="true" signature="508:551" ph="INSERT INTO `account`... " />
-            <marker date="1542466661087" expanded="true" signature="565:608" ph="UPDATE `acco... " />
-            <marker date="1542466661087" expanded="true" signature="571:595" ph="INSERT INTO `account`... " />
-          </folding>
+          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day28_mysqli_2/5_使用预处理完成查询.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="e#6#95#0#PHP" expanded="false" />
-            <marker date="1542121456056" expanded="true" signature="258:306" ph="SELECT id,na... account" />
-          </folding>
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day28_mysqli_2/4_预处理.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
-          <caret line="34" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#95#0#PHP" expanded="false" />
-            <marker date="1542120692024" expanded="true" signature="329:364" ph="INSERT INTO `account`... " />
-          </folding>
+          <caret line="34" column="2" selection-end-line="65" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/1_mysqli_crud.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <marker date="1542531881706" expanded="true" signature="760:778" ph="SELECT * FRO... user3" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/1_文件访问&amp;修改.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#95#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/2_获取文件信息方式2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="766" column="9" lean-forward="false" selection-start-line="766" selection-start-column="9" selection-end-line="766" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/3_文件显示1_readfile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
+          <caret line="766" column="9" selection-start-line="766" selection-start-column="9" selection-end-line="766" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/4_文件显示2_fread+buffer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-            <marker date="1542545341296" expanded="true" signature="716:722" ph=" " />
-            <marker date="1542545341296" expanded="true" signature="722:728" ph=" " />
-            <marker date="1542545341296" expanded="true" signature="728:734" ph=" " />
-            <marker date="1542545341296" expanded="true" signature="734:740" ph=" " />
-          </folding>
+        <state relative-caret-position="609">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/5_文件显示3_file_get_contents.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        <state relative-caret-position="588">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
@@ -980,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/6_读取配置文件config.ini.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="147">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="31" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
@@ -989,45 +679,100 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/hello.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/7_创建文件并写入内容.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php">
+    <entry file="file://$PROJECT_DIR$/day13_变量/1.值传递.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day27_mysqli_extense/1_mysqli_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/1_文件访问&amp;修改.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="50" column="14" selection-start-line="50" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/9_删除文件.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#6#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/world.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/iconv/iconv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/中文名称测试.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/11_目录操作.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/12_文件拷贝.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/config.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/13dir/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/3_文件显示1_readfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
@@ -1036,9 +781,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/10_修改文件.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_文件上传/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_文件上传/1_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
