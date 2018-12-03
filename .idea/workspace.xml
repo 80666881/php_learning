@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40163e48-fa3a-467c-b23a-f9e821649cab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/11_目录操作.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/12_文件拷贝.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/new_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/13dir/中文名称测试.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31_文件上传/1_upload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31_文件上传/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day32_php图像处理/1_测试phpinfo(开启gd2拓展).php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_session_cookie/1_session操作.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" beforeDir="false" afterPath="$PROJECT_DIR$/day30_文件操作/10_修改文件.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day30_文件操作/hello.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,28 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="8_file_put_content添加.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="中文名称测试.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/中文名称测试.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="11_目录操作.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day30_文件操作/11_目录操作.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="546">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -79,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -88,12 +61,12 @@
         <entry file="file://$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_upload.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_upload.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day31_文件上传/1_upload.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
@@ -102,23 +75,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day31_文件上传/upload.html">
+      <file leaf-file-name="1.值传递.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day13_变量/1.值传递.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9_删除文件.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day30_文件操作/9_删除文件.php">
+      <file leaf-file-name="1_测试phpinfo(开启gd2拓展).php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day32_php图像处理/1_测试phpinfo(开启gd2拓展).php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_session操作.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day34_session_cookie/1_session操作.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day31_文件上传/upload.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -127,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/day30_文件操作/10_修改文件.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -147,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day20_静态_单例/4.魔术方法_修饰符使用范围.php" />
         <option value="$PROJECT_DIR$/day20_静态_单例/5.对象的连用(链式调用).php" />
         <option value="$PROJECT_DIR$/day21_重载/1.重载.php" />
         <option value="$PROJECT_DIR$/day21_重载_多态/2.多态.php" />
@@ -198,6 +185,7 @@
         <option value="$PROJECT_DIR$/day31_文件上传/2_upload.html" />
         <option value="$PROJECT_DIR$/day31_文件上传/upload.html" />
         <option value="$PROJECT_DIR$/day31_文件上传/1_upload.php" />
+        <option value="$PROJECT_DIR$/day32_php图像处理/1_测试phpinfo(开启gd2拓展).php" />
       </list>
     </option>
   </component>
@@ -224,65 +212,6 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Code SmellPHP</id>
-          </State>
-          <State>
-            <id>Code StylePHP</id>
-          </State>
-          <State>
-            <id>Control FlowPHP</id>
-          </State>
-          <State>
-            <id>DocBlocksJoomla!</id>
-          </State>
-          <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
-            <id>Joomla!</id>
-          </State>
-          <State>
-            <id>Naming conventionsPHP</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>PHP Strict StandardsPHP</id>
-          </State>
-          <State>
-            <id>PHPDocPHP</id>
-          </State>
-          <State>
-            <id>Phing</id>
-          </State>
-          <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>Replaceable assignmentsPHP</id>
-          </State>
-          <State>
-            <id>Type compatibilityPHP</id>
-          </State>
-          <State>
-            <id>UndefinedPHP</id>
-          </State>
-          <State>
-            <id>UnusedPHP</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -291,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,18 +259,27 @@
               <item name="php_learning" type="462c0819:PsiDirectoryNode" />
               <item name="day31_文件上传" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day32_php图像处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="day34_session_cookie" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="settings.editor.splitter.proportion" value="0.22990233" />
   </component>
   <component name="RecentsManager">
@@ -417,12 +356,13 @@
       <workItem from="1543154861030" duration="24000" />
       <workItem from="1543154961946" duration="83000" />
       <workItem from="1543223716715" duration="212000" />
-      <workItem from="1543330469035" duration="3285000" />
+      <workItem from="1543330469035" duration="3513000" />
+      <workItem from="1543755431903" duration="1910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70489000" />
+    <option name="totallyTimeSpent" value="72627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,20 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/cat.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/3.对象序列化.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="31" column="109" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day22_内置标准类_反射_traits/4.对象反序列化unserialize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -662,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,29 +595,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/hello.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/hello.txt" />
     <entry file="file://$PROJECT_DIR$/day30_文件操作/7_创建文件并写入内容.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13_变量/1.值传递.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -714,7 +622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/9_删除文件.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="294">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
@@ -722,9 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day30_文件操作/world.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_文件操作/world.txt" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/iconv/iconv.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -734,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/8_file_put_content添加.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="651">
           <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
@@ -747,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/11_目录操作.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state relative-caret-position="546">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -773,37 +679,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="e#6#94#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/10_修改文件.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/13_opendir&amp;readdir.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day30_文件操作/14_统计文件和文件夹大小.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day31_文件上传/upload.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -811,6 +714,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13_变量/1.值传递.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day32_php图像处理/1_测试phpinfo(开启gd2拓展).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day34_session_cookie/1_session操作.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
