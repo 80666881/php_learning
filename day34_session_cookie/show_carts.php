@@ -15,3 +15,5 @@ if(!isset($_SESSION['cart'])){
 foreach ($_SESSION['cart'] as $k=>$v){
     echo '您购买了:<br>'.$k.'，数量是'.$v.'<br>';
 }
+
+echo "<a href='./3_购物车应用实例.html'>返回购物车</a>";

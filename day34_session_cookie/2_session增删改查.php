@@ -2,6 +2,7 @@
 
 	session_start();
 	//1.写入session数据（除资源类型外任意格式）
+    //看页面的response请求可以知道，是通过响应头部的Set-Cookie: PHPSESSID=f3vda1d12hcih6gptj1oujn6b7; 来实现的
 
 	$_SESSION['name'] = array('zhangsan',34);
 	//session文件得到php序列后的数据
