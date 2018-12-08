@@ -10,7 +10,7 @@
 使用场景
 	购物车:
 		goods_list.php 点击商品进行购买（存储到session文件中）
-		show_cart.php  查询购买的商品（从session读取）
+		show_carts.php  查询购买的商品（从session读取）
 	防跳墙操作:
 		check.php 登录验证操作（登录成功在session做记录）
 		index.php 后台首页（查询session的记录是否为登录成功）
