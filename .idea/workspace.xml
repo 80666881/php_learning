@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40163e48-fa3a-467c-b23a-f9e821649cab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day34_session_cookie/4_完全清除session信息.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day34_session_cookie/5_session存储机制重写.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day35_PDO/1_pdo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day35_PDO/2_pdo效率.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day35_PDO/3_PDO_select.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day34_session_cookie/2_session增删改查.php" beforeDir="false" afterPath="$PROJECT_DIR$/day34_session_cookie/2_session增删改查.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day34_session_cookie/show_carts.php" beforeDir="false" afterPath="$PROJECT_DIR$/day34_session_cookie/show_carts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day35_PDO/3_PDO_select.php" beforeDir="false" afterPath="$PROJECT_DIR$/day35_PDO/3_PDO_select.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,8 +40,8 @@
       <file leaf-file-name="2_pdo效率.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day35_PDO/2_pdo效率.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="210">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -56,8 +49,8 @@
       <file leaf-file-name="3_PDO_select.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day35_PDO/3_PDO_select.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="213">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -287,6 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhengzehao/Documents/apache_public/php_learning/day35_PDO/2_pdo效率.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -369,12 +363,12 @@
       <workItem from="1543330469035" duration="3513000" />
       <workItem from="1543755431903" duration="2090000" />
       <workItem from="1543977895517" duration="322000" />
-      <workItem from="1544235747733" duration="7064000" />
+      <workItem from="1544235747733" duration="8745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80193000" />
+    <option name="totallyTimeSpent" value="81874000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -734,15 +728,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day35_PDO/2_pdo效率.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="210">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day35_PDO/3_PDO_select.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="213">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
