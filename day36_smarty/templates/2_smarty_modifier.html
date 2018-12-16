@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body style="box-sizing: border-box;padding: 40px;line-height: 1.8;">
+    1.将当前的时间戳转化为日期格式date_format:'%Y-%m-%d %H:%M:%S'
+    <br>
+        转化前{$smarty.now}
+    <br>
+        转化后{$smarty.now|date_format:'%Y-%m-%d %H:%M:%S'}
+    <hr>
+    2.将小写字母转为首写字母大写$name1|capitalize
+    <br>
+        {$name1} ===> {$name1|capitalize}
+    <hr>
+    3.将字母全转为大写
+    <br>
+        {$name1} ===> {$name1|upper}
+    <hr>
+    4.统计字符串数量
+    <br>
+        {$name1} ===> {$name1|count_characters}
+    <hr>
+    5.default取默认值(如果变量为空(空字符串或null))时，就使用默认值
+    <br>
+        {$name2} ===> {$name2|default:200}
+    <hr>
+    6.字符缩进$name1|indent:2:'& nbsp'(用& nbsp表示缩进空格)
+    <br>
+    {$name1} ===> {$name1|indent:2:'&nbsp'}
+    <hr>
+    7.escape（转码），默认采用实体转码(把小于号转&lt;)，可以将其改为url转码(如果不转码，传输过来的script会直接执行）
+    <br>
+    {$script|escape}
+</body>
+</html>
